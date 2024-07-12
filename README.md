@@ -1,2 +1,3 @@
 # git-course-outline
-git in one video complete tutorial
+<mark>git</mark> in one video complete tutorial
+
